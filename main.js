@@ -44,7 +44,7 @@ function response(room, msg, sender, isGroupChat, replier, imageDB, packageName)
 
     replier.reply(zalgoText("HE IS AWAKE"));
     replier.reply("Sound Event 2: _");
-    replier.reply("Listen: " + underscoreSoundURL); // 여기가 핵심입니다.
+    replier.reply("Listen: " + https://drive.google.com/file/d/1Gxfw1DF9VXGYk4gQ3rjMQbfdmoA7ko8x/view?usp=sharing); // 여기가 핵심입니다.
     java.lang.Thread.sleep(1000);
     replier.reply(zalgoText("IT'S TOO LATE"));
   }
